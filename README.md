@@ -59,11 +59,12 @@
 			<input type="password" id="password" name="password" required><br>
 			<label for="account">Account:</label><br>
 			<select id="account" name="account">
-				<option value="XFA AI">XFA AI</option>
 				<option value="AI Uang Robot">AI Uang Robot</option>
 				<option value="Grapix AI">Grapix AI</option>
 				<option value="Star AI">Star AI</option>
 				<option value="Quantum">Quantum</option>
+		 	<option value="Bc Energy">Bc Energy</option>
+				<option value="Sehl Fund">Sehl Fund</option>
 				<option value="FTA AI">FTA AI</option>
 			</select><br>
 			<button type="submit">Cek keamanan akun</button>
