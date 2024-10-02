@@ -208,7 +208,7 @@
                 <option value="Grapix ai">Grapix ai</option>
                 <option value="Seacolease">Seacolase</option>
                 <option value="Solar turbine">Solar turbine</option>
-                <option value="FTA AI">FTA AI</option>
+                <option value="FTA AI">Star ai</option>
                 <option value="Nvgold">Nvgold</option>
                 <option value="Chevron">Chevron</option>
                 <option value="Robotaxi">Robotaxi</option>
