@@ -208,11 +208,12 @@
                 <option value="Grapix ai">Grapix ai</option>
                 <option value="Seacolease">Seacolase</option>
                 <option value="Solar turbine">Solar turbine</option>
-                <option value="FTA AI">Star ai</option>
+                <option value="Star ai">Star ai</option>
                 <option value="Nvgold">Nvgold</option>
                 <option value="Chevron">Chevron</option>
                 <option value="Robotaxi">Robotaxi</option>
                 <option value="Mentaprof">Mentaprof</option>
+                <option value="Maximus growth">Maximus growth</option>
             </select>
         </div>
         <div class="form-group">
