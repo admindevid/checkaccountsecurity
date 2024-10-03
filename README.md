@@ -206,12 +206,14 @@
                 <option value="ecomamoni">Ecomamoni</option>
                 <option value="Game stop">Game stop</option>
                 <option value="Grapix ai">Grapix ai</option>
+                <option value="Gold short">Gold short</option>
                 <option value="Seacolease">Seacolase</option>
                 <option value="Solar turbine">Solar turbine</option>
                 <option value="Star ai">Star ai</option>
                 <option value="Nvgold">Nvgold</option>
                 <option value="Chevron">Chevron</option>
                 <option value="Charge bank">Charge bank</option>
+                <option value="Lockheeder">Lockheeder</option>
                 <option value="Fwd invest">Fwd invest</option>
                 <option value="Robotaxi">Robotaxi</option>
                 <option value="Mentaprof">Mentaprof</option>
