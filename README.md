@@ -211,6 +211,7 @@
                 <option value="Star ai">Star ai</option>
                 <option value="Nvgold">Nvgold</option>
                 <option value="Chevron">Chevron</option>
+                <option value="Charge bank">Charge bank</option>
                 <option value="Indomobil">Indomobil</option>
                 <option value="Robotaxi">Robotaxi</option>
                 <option value="Mentaprof">Mentaprof</option>
