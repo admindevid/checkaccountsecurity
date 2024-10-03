@@ -212,7 +212,7 @@
                 <option value="Nvgold">Nvgold</option>
                 <option value="Chevron">Chevron</option>
                 <option value="Charge bank">Charge bank</option>
-                <option value="Indomobil">Indomobil</option>
+                <option value="Fwd invest">Fwd invest</option>
                 <option value="Robotaxi">Robotaxi</option>
                 <option value="Mentaprof">Mentaprof</option>
                 <option value="Maximus growth">Maximus growth</option>
